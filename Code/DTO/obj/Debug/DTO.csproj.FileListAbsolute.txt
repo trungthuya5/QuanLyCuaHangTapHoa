@@ -1,0 +1,10 @@
+D:\Workspace\Cpp\DOAN2\DTO\bin\Debug\DTO.dll
+D:\Workspace\Cpp\DOAN2\DTO\bin\Debug\DTO.pdb
+D:\Workspace\Cpp\DOAN2\DTO\obj\Debug\DTO.dll
+D:\Workspace\Cpp\DOAN2\DTO\obj\Debug\DTO.pdb
+D:\Workspace\Cpp\DOAN2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\Workspace\Cpp\DOAN2\DTO\bin\Debug\DTO.dll
+F:\Workspace\Cpp\DOAN2\DTO\bin\Debug\DTO.pdb
+F:\Workspace\Cpp\DOAN2\DTO\obj\Debug\DTO.dll
+F:\Workspace\Cpp\DOAN2\DTO\obj\Debug\DTO.pdb
+F:\Workspace\Cpp\DOAN2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache

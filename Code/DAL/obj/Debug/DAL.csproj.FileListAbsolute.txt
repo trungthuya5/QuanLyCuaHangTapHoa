@@ -1,0 +1,14 @@
+D:\Workspace\Cpp\DOAN2\DAL\bin\Debug\DAL.dll
+D:\Workspace\Cpp\DOAN2\DAL\bin\Debug\DAL.pdb
+D:\Workspace\Cpp\DOAN2\DAL\bin\Debug\DTO.dll
+D:\Workspace\Cpp\DOAN2\DAL\bin\Debug\DTO.pdb
+D:\Workspace\Cpp\DOAN2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Workspace\Cpp\DOAN2\DAL\obj\Debug\DAL.dll
+D:\Workspace\Cpp\DOAN2\DAL\obj\Debug\DAL.pdb
+F:\Workspace\Cpp\DOAN2\DAL\bin\Debug\DAL.dll
+F:\Workspace\Cpp\DOAN2\DAL\bin\Debug\DAL.pdb
+F:\Workspace\Cpp\DOAN2\DAL\bin\Debug\DTO.dll
+F:\Workspace\Cpp\DOAN2\DAL\bin\Debug\DTO.pdb
+F:\Workspace\Cpp\DOAN2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Workspace\Cpp\DOAN2\DAL\obj\Debug\DAL.dll
+F:\Workspace\Cpp\DOAN2\DAL\obj\Debug\DAL.pdb
